@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exploring Michigan</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Michigan!</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Michigan</h2>
+            <p>Michigan is a state in the Great Lakes and Midwestern regions of the United States. It is known for its beautiful landscapes, freshwater lakes, and vibrant cities.</p>
+        </section>
+
+        <section>
+            <h2>Fun Facts About Michigan</h2>
+            <ul>
+                <li>Michigan has more than 11,000 inland lakes.</li>
+                <li>It is the only state to consist of two peninsulas.</li>
+                <li>Detroit, Michigan, is known as the "Motor City" for its role in the automotive industry.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Images of Michigan</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mackinac_Bridge.jpg/800px-Mackinac_Bridge.jpg" alt="Mackinac Bridge connecting Michigan's Upper and Lower Peninsulas">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Detroit_Skyline.jpg/800px-Detroit_Skyline.jpg" alt="Detroit skyline at sunset">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sleeping_Bear_Dunes_National_Lakeshore.jpg/800px-Sleeping_Bear_Dunes_National_Lakeshore.jpg" alt="Sleeping Bear Dunes National Lakeshore">
+        </section>
+
+        <section>
+            <h2>Learn More</h2>
+            <p>For more information about Michigan, visit the <a href="https://www.michigan.gov" target="_blank">Official Michigan Website</a>.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Exploring Michigan</p>
+    </footer>
+</body>
+</html>
